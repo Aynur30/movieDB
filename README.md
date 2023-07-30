@@ -1,2 +1,1 @@
-# Movies App
-https://movies-pk2f0pufw-spvtvr.vercel.app/
+https://movies-app-main-kappa.vercel.app/
